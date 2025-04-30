@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="webinfo.org.ua">
+    <serverData>
+      <paths name="webinfo.org.ua">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/domains/academy.webinfo.org.ua/public_html" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
